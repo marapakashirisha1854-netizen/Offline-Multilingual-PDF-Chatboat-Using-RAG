@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pypdf
+cryptography>=42.0.0
+python-multipart
+chromadb
+sentence-transformers
+requests
+PyMuPDF
+Pillow
+pytesseract
+faster-whisper
